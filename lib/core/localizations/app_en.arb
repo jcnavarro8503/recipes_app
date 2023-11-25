@@ -1,0 +1,49 @@
+{
+    "appTitle": "Recipe App",
+
+    "lenguage": "Lenguage",
+    "spanish": "Spanish",
+    "english": "English",
+
+    "lets_start": "Let's start",
+    "home": "Home",
+    "inspirations": "Inspirations",
+    "my_recipes": "My Recipes",
+    "cook_now": "Cook now!",
+    "settings": "Settings",
+    "exit": "Exit",
+
+    "landing_title": "All the recipes on your fingertips",
+    "landing_subtitle": "Cooking on ThermomixⓇ made easy",
+
+    "recipe": "Recipe",
+    "of_the_day": "of the day",
+
+    "cook": "Cook",
+    "like_pro": "like pro",
+    "thermomix_advanced": "ThermomixⓇ advanced \ntips and tricks >",
+
+    "check": "Check",
+    "new_updates": "new updates",
+    
+    "recommends_you": "recommends you",
+    "more_recipes": "Browse more recipes",
+
+    "pull_to_load": "Pull to load",
+    "load_failed": "Load failed, please retry!",
+    "release_to_load": "Release to load more",
+    "no_more": "No more data",
+
+    "browse_recipe": "Browse recipe",
+    "create_shopping_list": "Create shopping list",
+    "cancel": "Cancel",
+
+    "step": "Step",
+    "program": "Program",
+    "cooking": "Cooking!",
+
+    "reload": "Reload!",
+    "back_to_recipes": "Back to recipes!",
+
+    "theme": "Theme"
+}

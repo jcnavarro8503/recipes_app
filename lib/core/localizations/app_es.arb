@@ -1,0 +1,49 @@
+{
+    "appTitle": "Aplicación de Recetas",
+
+    "lenguage": "Lenguaje",
+    "spanish": "Español",
+    "english": "Inglés",
+
+    "home": "Inicio",
+    "lets_start": "Empecemos",
+    "inspirations": "Inspiraciones",
+    "my_recipes": "Mis recetas",
+    "cook_now": "Cocinar!",
+    "settings": "Ajustes",
+    "exit": "Salir",
+
+    "landing_title": "Todas las recetas a tu alcance",
+    "landing_subtitle": "Cocinar con ThermomixⓇ es fácil",
+
+    "recipe": "Receta",
+    "of_the_day": "del día",
+
+    "cook": "Cocina",
+    "like_pro": "como profesional",
+    "thermomix_advanced": "ThermomixⓇ avanzado \nconsejos y trucos >",
+
+    "check": "Busca",
+    "new_updates": "nuevas actualizaciones",
+
+    "recommends_you": "Te recomienda",
+    "more_recipes": "Buscar más recetas",
+
+    "pull_to_load": "Halar para cargar",
+    "load_failed": "Fallo en la carga, reintente por favor!",
+    "release_to_load": "Suelte para cargar más",
+    "no_more": "No hay más datos",
+
+    "browse_recipe": "Buscar recetas",
+    "create_shopping_list": "Crear lista de compra",
+    "cancel": "Cancelar",
+
+    "step": "Paso",
+    "program": "Programa",
+    "cooking": "Coocinando!",
+
+    "reload": "Recargar!",
+    "back_to_recipes": "Regresar a recetas!",
+
+    "theme": "Tema"
+}
